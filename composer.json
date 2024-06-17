@@ -1,5 +1,5 @@
 {
-    "name": "cakedc/cakephp-api",
+    "name": "arodu/cakephp-api",
     "description": "Api plugin for CakePHP",
     "type": "cakephp-plugin",
     "keywords": [
